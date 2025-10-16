@@ -1,8 +1,8 @@
-#Content
+# Content
 
 This repository contain my Python learnings based on Turtle Module.
 
-#Objective
+# Objective
 
 learn Turtle Module 
 Use that for a calculator project
